@@ -11,8 +11,8 @@
   .todo input {
     background: transparent;
     border: none;
-    color: rgb(218, 53, 24);
-    border-bottom: 5px dashed black;
+    color: rgb(230, 52, 21);
+    border-bottom: 3px black;
     min-width: 300px;
     margin-top: 40px;
     padding: 5px;
